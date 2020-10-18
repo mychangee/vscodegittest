@@ -1,0 +1,5 @@
+# 配置git
+% 安装git
+% 密钥连接到github
+
+# vscode配置git
