@@ -1,0 +1,18 @@
+大用
+foxmail √
+microsoft to do √
+美图秀秀 √
+picgo
+typora √
+小狼毫 √
+xmind √
+
+中用
+迅雷 √
+腾讯会议 √
+腾讯文档 √
+
+小用
+islide tools
+node.js
+夜神模拟器

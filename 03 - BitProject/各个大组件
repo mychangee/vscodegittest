@@ -1,0 +1,19 @@
+# 整体把控
+
+# 时间安排
+ToDo + 高效Todo
+
+# 文档撰写与管理
+    eclipse写代码
+    vscode写笔记/日志/管理计划等
+    除office类文件之外都用git+github/gitee（备份）来做版本管理
+    office系列文件使用其自带的进行版本管理
+
+# 常用文件类型
+% 可版本管理
+    - txt
+    - md
+    - office
+% 无法版本管理
+    - xmind
+    - 图片
