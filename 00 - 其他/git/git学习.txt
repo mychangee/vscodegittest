@@ -3,3 +3,7 @@
 % 密钥连接到github
 
 # vscode配置git
+git remote add <name> <url>
+    - 添加远程仓库
+git push --set-upstream vscodegittest master
+    - login in github
